@@ -1,0 +1,16 @@
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\Classes.exe
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\Classes.deps.json
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\Classes.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\ref\Classes.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\Classes.pdb
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\Classes.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\ref\Classes.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\Classes.pdb
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\Classes.genruntimeconfig.cache

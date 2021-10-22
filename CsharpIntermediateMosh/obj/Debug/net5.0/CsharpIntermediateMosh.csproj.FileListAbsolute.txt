@@ -1,0 +1,16 @@
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\CsharpIntermediateMosh.exe
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\CsharpIntermediateMosh.deps.json
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\CsharpIntermediateMosh.runtimeconfig.json
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\CsharpIntermediateMosh.runtimeconfig.dev.json
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\CsharpIntermediateMosh.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\ref\CsharpIntermediateMosh.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\bin\Debug\net5.0\CsharpIntermediateMosh.pdb
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\CsharpIntermediateMosh.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\CsharpIntermediateMosh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\CsharpIntermediateMosh.AssemblyInfoInputs.cache
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\CsharpIntermediateMosh.AssemblyInfo.cs
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\CsharpIntermediateMosh.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\CsharpIntermediateMosh.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\ref\CsharpIntermediateMosh.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\CsharpIntermediateMosh.pdb
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\CsharpIntermediateMosh\obj\Debug\net5.0\CsharpIntermediateMosh.genruntimeconfig.cache

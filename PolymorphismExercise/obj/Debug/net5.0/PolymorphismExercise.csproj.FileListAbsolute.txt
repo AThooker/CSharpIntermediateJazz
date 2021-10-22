@@ -1,0 +1,16 @@
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\bin\Debug\net5.0\PolymorphismExercise.exe
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\bin\Debug\net5.0\PolymorphismExercise.deps.json
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\bin\Debug\net5.0\PolymorphismExercise.runtimeconfig.json
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\bin\Debug\net5.0\PolymorphismExercise.runtimeconfig.dev.json
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\bin\Debug\net5.0\PolymorphismExercise.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\bin\Debug\net5.0\ref\PolymorphismExercise.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\bin\Debug\net5.0\PolymorphismExercise.pdb
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\obj\Debug\net5.0\PolymorphismExercise.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\obj\Debug\net5.0\PolymorphismExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\obj\Debug\net5.0\PolymorphismExercise.AssemblyInfoInputs.cache
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\obj\Debug\net5.0\PolymorphismExercise.AssemblyInfo.cs
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\obj\Debug\net5.0\PolymorphismExercise.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\obj\Debug\net5.0\PolymorphismExercise.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\obj\Debug\net5.0\ref\PolymorphismExercise.dll
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\obj\Debug\net5.0\PolymorphismExercise.pdb
+C:\Users\17654\Desktop\DotNetTraining\CsharpIntermediateMosh\PolymorphismExercise\obj\Debug\net5.0\PolymorphismExercise.genruntimeconfig.cache
